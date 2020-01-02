@@ -1,0 +1,100 @@
+div {
+    
+}
+
+#bandele-top {
+    height: 60px;
+    width: 200px;
+    background-color: peru;
+    border-top-right-radius: 80px;
+    border-top-left-radius: 80px;
+}
+
+#kecupas {
+    height: 10px;
+    width: 200px;
+    background-color: red;
+
+}
+
+#suris {
+    height: 10px;
+    width: 200px;
+    background-color: yellow;
+    border: 2px solid lightgrey;
+    border-top-width: 10px;
+}
+
+#svogunas {
+    height: 10px;
+    width: 200px;
+    background-color: blueviolet;
+    border-style: dotted;
+    border: 2px solid blueviolet;
+
+}
+
+#mesa {
+    height: 10px;
+    width: 200px;
+    background-color: saddlebrown;
+    border: 2px solid saddlebrown;
+    border-radius: 8px;
+    display: inline-block;
+}
+
+#agurkelis {
+    height: 10px;
+    width: 200px;
+    background-color: green;
+    border: 2px solid green;
+    border-radius: 15px 50px 30px 5px;
+}
+
+.mesos-paplotelis {
+    height: 30px;
+    width: 200px;
+    background-color: brown;
+    border: 2px solid brown;
+    border-radius: 8px;
+}
+
+#bandele-bottom {
+    height: 30px;
+    width: 200px;
+    background-color: peru;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+#lekste {
+    height: 30px;
+    width: 200px;
+    background-color: darkgray;
+    border: 2px solid darkgray;
+    border-radius: 8px;
+}
+
+/*margin 0;
+padding 0;
+box-sizing:border-box;
+.header {
+fono paveikslas
+aukstis plotis lygiavimas (margin 0 auto;)
+}
+.header-text{
+
+}
+.header-img{
+
+header {
+backgorund image =url(img cover)
+backgoround size :cover;
+}
+section class= "header
+section class= header container
+.header-container 
+margin 0 auto;
+header bgc 
+background color:rgba (141,239,253,0.3)
+/*
